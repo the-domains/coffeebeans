@@ -1,7 +1,7 @@
 name: CoffeeBeans
 favicon: null
-layout_spectrum: 0.9894384590443224
-typography_spectrum: 0.8848221881780773
+layout_spectrum: 0.98578
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.43461246881633997
+  brandStrength: 0.5625
   lightness: 0.7076833830215037
   saturation: 0.41381172463297844
   rhythmicContrast: 0.6213800185360014
