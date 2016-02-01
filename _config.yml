@@ -1,0 +1,28 @@
+name: CoffeeBeans
+favicon: null
+layout_spectrum: 0.9894384590443224
+typography_spectrum: 0.8848221881780773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.43461246881633997
+  lightness: 0.7076833830215037
+  saturation: 0.41381172463297844
+  rhythmicContrast: 0.6213800185360014
+purpose: []
